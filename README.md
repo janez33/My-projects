@@ -30,5 +30,5 @@ Languages used:
 
 
 
-<Links>
+<!-- Links -->
 [1]: https://janez33.github.io/frontend-mentor/hubble-one/style.css
