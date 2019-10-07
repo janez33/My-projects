@@ -21,8 +21,8 @@ Languages used:
 |[Personal Portfolio Webpage - freeCodeCamp Project](https://codepen.io/janez33/full/GXvxqL)|My fifth (& last) project on freeCodeCamp for HTML & CSS section. It's fully responsive with designed system for typography and spacing.|freecodecamp, responsive, flexbox, grid, showcase, social, icons|
 |[Vigoshop animation logo](https://codepen.io/janez33/full/ErJQGK)|Comforting loading animation for (vigoshop.com) logo.|loading, animation, logo, keyframes, svg|
 |[Huddle landing page with single column layout](https://janez33.github.io/frontend-mentor/hubble-one/)|CSS file [here][1]. Landing page made from provided sketch files with only HTML&CSS, no frameworks.|responsive, design, flexbox, footer|
-|[WP-All-Import-Export-projects](https://github.com/janez33/WP-All-Import-Export-projects)|Add description|Add taggs|
-
+|[WP-All-Import-Export-projects](https://github.com/janez33/WP-All-Import-Export-projects)|All of XML projects using WP All Export&Import|xml, xpath, php, feed, import, export, wp all import, products, wordpress|
+|[Simple BMI Calculator](https://codepen.io/janez33/pen/BepwqE)|Cool javascript project - simple bmi calculator built only with vanilla JS.|vanilla, javascript, calculator|
 
 
 
