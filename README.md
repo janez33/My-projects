@@ -14,6 +14,7 @@ Languages used:
 
 |Reference|Short Description|Tags|
 |:--------|:----------------|:----|
+|[Facebook comments replica](https://github.com/janez33/FB-comments)|Facebook comments for customer real reviews replica|bootstrap, comments, font-awesome|
 |[Beautiful Gradient Form](https://codepen.io/janez33/full/bjVoPx)|Very minimalistic color form. I've done it for weekly CodePen Challenge.|gradient, transition, form, checkbox|
 |[Awesome image grid example](https://codepen.io/janez33/full/jQOLvJ)|Cool looking responsive image grid example I made when learning about CSS Grid.|grid, responsive, images|
 |[Blurry image](https://codepen.io/janez33/full/gqQjZW)|Playing with blurry effect.|blur, effect, image|
